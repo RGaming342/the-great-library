@@ -6,7 +6,11 @@ the meta-data for a txt file is:
 (Title): "the title"
 
 (Anthor): [anthor-name]
+
 (Contributors): [Contributor-name], [Contributor-name]
+
 (Created-on): [time-created]
+
 (Edited-on): [last-edited]
+
 (Times-edited): [the-amount-of-times-edited]
