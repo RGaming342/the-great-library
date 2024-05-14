@@ -5,7 +5,7 @@ the meta-data for a txt file is:
 
 (Title): "the title"
 
-(Anthor): [anthor-name]
+(Author): [author-name]
 
 (Contributors): [Contributor-name], [Contributor-name]
 
